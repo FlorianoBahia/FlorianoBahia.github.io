@@ -1,5 +1,5 @@
-At the moment this blog contains nothing ineresting.
-Just playing around and getting ideas what can be done with it
+At the moment this blog contains nothing interesting.
+Just playing around and getting ideas what can be done.
 
 ![Image of fast.ai logo](images/logo.png)
 
